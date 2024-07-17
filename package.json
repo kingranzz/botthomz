@@ -1,0 +1,39 @@
+{
+  "name": "base-pairing-thomz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index --code"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "@xct007/tiktok-scraper": "^0.0.3",
+    "axios": "^0.27.2",
+    "cfonts": "^2.10.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.13",
+    "jsdom": "^16.4.0",
+    "link-preview-js": "^3.0.4",
+    "moment-timezone": "^0.5.34",
+    "node-webpmux": "^3.1.0",
+    "performance-now": "^2.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
+    "rimraf": "^3.0.2",
+    "spinnies": "^0.5.1",
+    "syntax-error": "^1.4.0",
+    "util": "^0.12.4",
+    "yt-search": "^2.10.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
